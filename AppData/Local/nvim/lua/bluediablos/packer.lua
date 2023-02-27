@@ -43,7 +43,9 @@ return require('packer').startup(function(use)
     {'rafamadriz/friendly-snippets'}, -- Optional
   }
 }
-use('vim-airline/vim-airline')
 
+use('vim-airline/vim-airline')
+use('vim-airline/vim-airline-themes')
 use('preservim/nerdtree')
+
 end)

@@ -170,6 +170,11 @@ _G.packer_plugins = {
     path = "C:\\Users\\Joe\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-airline",
     url = "https://github.com/vim-airline/vim-airline"
   },
+  ["vim-airline-themes"] = {
+    loaded = true,
+    path = "C:\\Users\\Joe\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-airline-themes",
+    url = "https://github.com/vim-airline/vim-airline-themes"
+  },
   ["vim-fugitive"] = {
     loaded = true,
     path = "C:\\Users\\Joe\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-fugitive",
