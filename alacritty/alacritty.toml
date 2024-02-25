@@ -167,7 +167,7 @@ background = "0xf2e5bc"
 foreground = "0x654735"
 
 [window]
-decorations = "None"
+decorations = "Full"
 decorations_theme_variant = "Dark"
 
 [scrolling]
