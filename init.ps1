@@ -1,5 +1,4 @@
-##creates symlinks between this repos config directories and the ones specified by the user
-
+##creates symlinks between this repos config directories and the ones specified by the user (Assumes you already have neovim and alacritty installed)
 $NeovimFolder = Read-Host "Please enter the neovim symlink location..."
 $AlacrittyFolder = Read-Host "Please enter the alacritty symlink location..."
 
